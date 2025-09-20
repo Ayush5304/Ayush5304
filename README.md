@@ -5,7 +5,7 @@
 I'm a passionate **Computer Science and Engineering student** from Bhopal, India, currently in my final year at Technocrats Institute of Technology. I love building innovative software solutions and constantly exploring the latest tech trends.
 
 - 🎓 **B.Tech CSE** | CGPA: 8.33/10
-- 🌱 Currently learning **Cloud Computing** and **AI/ML**
+- 🌱 Currently learning **Cloud Computing** 
 - 💼 Open to **internship opportunities** and **collaborations**
 - 📫 Reach me at: **mishrayush0503@gmail.com**
 
